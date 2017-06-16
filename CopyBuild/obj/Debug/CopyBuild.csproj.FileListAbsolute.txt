@@ -1,0 +1,6 @@
+c:\users\appsadmin\documents\visual studio 2015\Projects\CopyBuild\CopyBuild\bin\Debug\CopyBuild.exe.config
+c:\users\appsadmin\documents\visual studio 2015\Projects\CopyBuild\CopyBuild\bin\Debug\CopyBuild.exe
+c:\users\appsadmin\documents\visual studio 2015\Projects\CopyBuild\CopyBuild\bin\Debug\CopyBuild.pdb
+c:\users\appsadmin\documents\visual studio 2015\Projects\CopyBuild\CopyBuild\obj\Debug\CopyBuild.csprojResolveAssemblyReference.cache
+c:\users\appsadmin\documents\visual studio 2015\Projects\CopyBuild\CopyBuild\obj\Debug\CopyBuild.exe
+c:\users\appsadmin\documents\visual studio 2015\Projects\CopyBuild\CopyBuild\obj\Debug\CopyBuild.pdb
