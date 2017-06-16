@@ -50,7 +50,7 @@ namespace CopyBuild
                 Console.WriteLine("Time consumed:" + timer.Elapsed.ToString().Split('.')[0]);
 
                 string zipPath = CheckFor7zip();
-                //Console.WriteLine("7z: " + zipPath);
+
                 if (!String.IsNullOrEmpty(zipPath) && download7zip)
                 {
                     Console.WriteLine("\n7-Zip installation detected, proceed to extract file...");
